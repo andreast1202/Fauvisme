@@ -1,0 +1,18 @@
+body {
+--  background: #fdffcd;
+  background: lightyellow
+}
+
+a:hover {
+  background: grey;
+}
+
+table {
+  table-layout: fixed;
+  border-collapse: collapse;
+  border: 0px;
+}
+
+th {
+  background: lightblue;
+}
