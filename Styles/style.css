@@ -10,8 +10,9 @@ a:hover {
 
 table {
   table-layout: fixed;
-  border-collapse: collapse;
-  border: 0px;
+--  border-collapse: collapse;
+  border: 3px;
+  color: black;
 }
 
 th {
