@@ -1,6 +1,7 @@
 body {
 --  background: #fdffcd;
   background: lightyellow
+  width: 100%
 }
 
 a:hover {
