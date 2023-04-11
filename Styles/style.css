@@ -1,5 +1,16 @@
+.image {
+  background-color: transparent;
+}
+  
+}
 body {
-  width: 100%
+  background-color: transparent;
+  max-width: 800pt;
+}
+
+div {
+  background-color: lightyellow;
+  max-width: 800pt;
 }
 
 a:hover {
@@ -9,6 +20,12 @@ a:hover {
 table {
   table-layout: fixed;
 --  border-collapse: collapse;
-  border: 3px;
+  border: 3pt;
   color: black;
+}
+
+.nested {
+	max-width: 800pt;
+    margin-left: 50pt;
+    margin-right: 380pt;
 }
