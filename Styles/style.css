@@ -1,17 +1,17 @@
 .image {
   background-color: transparent;
-  max-width: 100%;
+	max-width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
 }
   
 }
 body {
   background-color: transparent;
-  max-width: 80%;
 }
 
 div {
   background-color: lightyellow;
-  max-width: 100%;
 }
 
 a:hover {
@@ -26,7 +26,7 @@ table {
 }
 
 .nested {
-	max-width: 80%;
+	max-width: 90%;
     margin-left: 5%;
     margin-right: 5%;
 }
