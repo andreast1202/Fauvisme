@@ -11,7 +11,11 @@ body {
 }
 
 div {
-  background-color: lightyellow;
+  background-color: #ffe9e3;
+}
+
+figure {
+  text-align: center
 }
 
 a:hover {
