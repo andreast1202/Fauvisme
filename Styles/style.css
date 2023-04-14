@@ -8,6 +8,7 @@
 }
 body {
   background-color: transparent;
+  font-size: 120%;
 }
 
 div {
@@ -29,6 +30,7 @@ table {
 }
 
 .nested {
+  font-size: 120%;
   background-color: #ffe9e3;
   max-width: 90%;
   margin-left: 5%;
