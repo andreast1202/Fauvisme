@@ -24,13 +24,14 @@ a:hover {
 
 table {
   table-layout: fixed;
---  border-collapse: collapse;
   border: 3pt;
   color: black;
 }
 
 .nested {
-	max-width: 90%;
-    margin-left: 5%;
-    margin-right: 5%;
+  background-color: #ffe9e3;
+  max-width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  text-align: justify;
 }
