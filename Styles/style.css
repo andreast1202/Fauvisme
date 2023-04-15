@@ -3,22 +3,31 @@ body {
   font-size: 120%;
 }
 
-div {
-  background-color: #ffe9e3;
-}
-
 figure {
   text-align: center
 }
 
+h1 {
+  color: #24527a;
+}
+
+h2 {
+  color: darkblue;
+}
+
 a:hover {
-  background: grey;
+  background: lightblue;
 }
 
 table {
   table-layout: fixed;
-  border: 3pt;
+  width: 80%;
+  border: 10pt;
   color: black;
+}
+
+td {
+  text-align: center;
 }
 
 .image {
@@ -29,7 +38,8 @@ table {
 }
   
 .nested {
-  background-color: #ffe9e3;
+  background-color: #fcf4d9;
+  color: #05004e;
   max-width: 90%;
   margin-left: 5%;
   margin-right: 5%;
